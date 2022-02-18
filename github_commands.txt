@@ -1,0 +1,8 @@
+git config --local user.name "nmyb"
+git config --local user.email "nmybike@gmail.com"
+cd C:\Users\Administrator\Desktop\site
+git status
+git add -u
+git add
+git commit -m "Updated"
+git push
