@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <!DOCTYPE HTML>
 <!--
 	Halcyonic by HTML5 UP
@@ -272,3 +273,19 @@
 
 	</body>
 </html>
+=======
+<!DOCTYPE html>
+<html lang='en'>
+	<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Document</title>
+	</head>
+	<body>
+	<h1>Prova</h1>
+		This is my site.  Ciao
+	</body>
+	
+</html>
+
+>>>>>>> 338e38a78ccb8ff2e627eac53739ff2bf291befc
